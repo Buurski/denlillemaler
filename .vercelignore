@@ -1,0 +1,5 @@
+# Agent-/repo-filer udgives aldrig (kundeaftaler i AGENTS.md) - 10/10-2026
+*.md
+docs/
+scripts/
+.claude/
